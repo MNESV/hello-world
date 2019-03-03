@@ -1,6 +1,6 @@
 # hello-world
 
-Learning 
+ # Learning 
 
 like cookies, playing games and think about the world
 
